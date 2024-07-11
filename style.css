@@ -1,0 +1,33 @@
+H1{
+    background-color: blueviolet;
+    font-weight: bold;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    
+}
+
+ul,ol{
+    
+    font-size: 30px;
+    
+}
+
+.heading1, .heading3{
+    background-color: blueviolet;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.heading3{
+    font-size: 30px;
+}
+
+
+p{
+    font-size: 22px;
+}
+
+
